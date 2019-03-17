@@ -1,6 +1,6 @@
 # reveal-effect.js
 
-A Javascript implementation of the Windows 10 border reveal effect on buttons.
+A Javascript implementation of the Windows 10 border reveal effect. Check it out [here](https://christosnc.github.io/reveal-effect.js/).
 
 How to use:
 -------------
